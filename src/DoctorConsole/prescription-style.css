@@ -1,0 +1,13 @@
+.create-prescription-title {
+  padding: 20px;
+  text-align: center;
+  color: #0097a7;
+}
+.prescription-form {
+  padding: 20px;
+  margin-left: 400px;
+  margin-right: 400px;
+}
+.date-input {
+  margin-left: 10px;
+}

@@ -1,0 +1,118 @@
+.edit-form {
+  padding: 20px;
+  margin-left: 400px;
+  margin-right: 400px;
+  background: white;
+}
+.edit-profile {
+  padding: 20px;
+}
+.edit-profile-title {
+  top: 20px;
+  text-align: center;
+}
+.location-div {
+  padding: 10px;
+}
+.country-label {
+  padding: 10px;
+}
+.country-input {
+  margin-left: 5px;
+  width: 120px;
+}
+.state-form {
+  margin-left: 20px;
+}
+.state-input {
+  margin-left: 5px;
+  width: 120px;
+}
+.timezone-form {
+  margin-left: 20px;
+}
+.time-zone-input {
+  margin-left: 5px;
+  width: 100px;
+}
+.edit-form {
+  padding: 20px;
+  margin-left: 400px;
+  margin-right: 400px;
+  background: white;
+}
+.edit-profile-title {
+  top: 20px;
+  text-align: center;
+}
+.location-div {
+  padding: 10px;
+}
+.country-label {
+  padding: 10px;
+}
+.country-input {
+  margin-left: 5px;
+  width: 120px;
+}
+.state-form {
+  margin-left: 20px;
+}
+.state-input {
+  margin-left: 5px;
+  width: 120px;
+}
+.timezone-form {
+  margin-left: 20px;
+}
+.time-zone-input {
+  margin-left: 5px;
+  width: 100px;
+}
+.patient-age {
+  padding: 5px;
+  text-align: left;
+}
+.patient-age-result {
+  padding: 5px;
+}
+.patient-email {
+  padding: 5px;
+  text-align: left;
+}
+.patient-email-result {
+  padding: 5px;
+}
+.patient-country {
+  padding: 5px;
+  text-align: left;
+}
+.patient-country-result {
+  padding: 5px;
+}
+.patient-state {
+  padding: 5px;
+  text-align: left;
+}
+.patient-state-result {
+  padding: 5px;
+}
+.patient-timezone {
+  padding: 5px;
+  text-align: left;
+}
+.patient-timezone-result {
+  padding: 5px;
+}
+.prescription-section {
+  padding: 50px;
+  margin-left: 10px;
+}
+.prescription-doctor {
+  padding: 10px;
+  margin-left: 5px;
+}
+.prescription-date {
+  padding: 10px;
+  margin-left: 300px;
+}

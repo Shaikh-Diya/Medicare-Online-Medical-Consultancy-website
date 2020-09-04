@@ -1,0 +1,19 @@
+.body-profile {
+  background-color: aquamarine;
+}
+.title {
+  padding: 20px;
+  border: 10px;
+}
+.profile-picture {
+  padding: 20px;
+  margin-left: 570px;
+}
+.row {
+  padding: 40px;
+}
+
+.body-navbar {
+  position: sticky;
+  top: 0;
+}

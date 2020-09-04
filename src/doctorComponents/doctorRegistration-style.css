@@ -1,0 +1,62 @@
+.doctor-resgistration-body {
+  width: 40%;
+  margin-left: 150px;
+  padding: 20px;
+  /* float: left; */
+  /* background: ; */
+  height: 540px;
+}
+.create-schedule {
+  top: 500px;
+  padding: 20px;
+  /* float: right; */
+  width: 40%;
+  background: cadetblue;
+}
+.time-zone-input {
+  width: 110px;
+  margin-left: 10px;
+}
+/* .state-input {
+  width: 110px;
+  margin-left: 45px;
+} */
+.country-input {
+  width: 200px;
+  margin-left: 25px;
+}
+.fullname-input {
+  width: 200px;
+  margin-left: 15px;
+}
+.doctor-registration-content {
+  padding: 20px;
+  height: 3000px;
+}
+.monday-time {
+  width: 110px;
+  padding: 5px;
+}
+.tuesday-time {
+  width: 110px;
+  padding: 5px;
+}
+.wednesday-time {
+  width: 110px;
+  padding: 5px;
+}
+.thursday-time {
+  width: 110px;
+  padding: 5px;
+}
+.friday-time {
+  width: 110px;
+  padding: 5px;
+}
+.submit-button-div {
+  padding: 20px;
+  margin-left: 210px;
+}
+.file-input {
+  margin-left: 100px;
+}

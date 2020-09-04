@@ -1,0 +1,210 @@
+.modal-dialog {
+  display: block;
+  size: "lg";
+  max-width: 800px;
+  padding-left: 0px;
+}
+.register-body {
+  left: 0px;
+  margin: 0;
+  padding: 0;
+  background: #efefef;
+  font-size: 16px;
+  color: #777;
+  font-family: sans-serif;
+  font-weight: 300;
+}
+.login-box {
+  position: relative;
+  margin: 10% auto;
+  height: 400px;
+  margin: 5% auto;
+  width: 475px;
+  background: #fff;
+  /* box-shadow: 0 2px 4px rgba(0, 0, 0, 0.6); */
+}
+.left-box {
+  position: relative;
+  top: 0;
+  left: 0;
+  box-sizing: border-box;
+  padding: 5px;
+  color: #585858;
+  widows: 300px;
+  height: 400px;
+}
+.header {
+  margin: 0 0 20px 0;
+  font-weight: 300;
+  font-size: 28px;
+  margin-left: 55px;
+  margin-top: 6px;
+}
+
+/* input[type="text"],
+input[type="password"]  */
+.email,
+.Password,
+.username {
+  display: block;
+  box-sizing: border-box;
+  margin-bottom: 20px;
+  padding: 4px;
+  width: 220px;
+  height: 32px;
+  border: none;
+  outline: none;
+  border-bottom: 1px solid #aaa;
+  font-family: sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  transition: 0.2s ease;
+}
+/* input[type="submit"]  */
+.signup-button {
+  margin-bottom: 5px;
+  /* width: 120px;
+  height: 32px; */
+  width: 100px;
+  height: 36px;
+  background: gray;
+  border: none;
+  border-radius: 2px;
+  color: #fff;
+  font-family: sans-serif;
+  font-weight: 500;
+  text-transform: uppercase;
+  transition: 0.2s ease;
+  cursor: pointer;
+}
+input[type="submit"]:hover,
+input[type="submit"]:focus {
+  background: rgb(175, 173, 173);
+  transition: 0.2s ease;
+}
+.right-box {
+  position: absolute;
+  top: 0;
+  right: 0;
+  box-sizing: border-box;
+
+  padding: 5px;
+  width: 240px;
+  height: 400px;
+  background-size: cover;
+  background-position: center;
+  background-color: #e8e8e8;
+}
+.or {
+  position: absolute;
+  top: 300px;
+  left: 215px;
+  width: 40px;
+  height: 40px;
+  color: white;
+  border-radius: 50%;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+  line-height: 40px;
+  text-align: center;
+  background: #8bc34a;
+}
+.right-box .signinwith {
+  display: block;
+  margin-bottom: 40px;
+  font-size: 28px;
+  color: #585858;
+  text-align: center;
+  /* text-shadow: 0 2px 4px rgba(0, 0, 0, 0.6); */
+}
+
+.signin-button {
+  margin-bottom: 28px;
+  /* width: 120px;
+    height: 32px; */
+  width: 100px;
+  height: 36px;
+  margin-top: 20px;
+  margin-left: 65px;
+  background: gray;
+  border: none;
+  border-radius: 2px;
+  color: #fff;
+  font-family: sans-serif;
+  font-weight: 500;
+  text-transform: uppercase;
+  transition: 0.2s ease;
+  cursor: pointer;
+  padding: 0px;
+}
+.emailsignin {
+  width: 230px;
+  height: 36px;
+}
+
+.nb {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+}
+.body {
+  background-color: #0097a7;
+}
+.readLink {
+  margin-left: 300px;
+  color: #0097a7;
+}
+.docName {
+  padding: 30px 10px 30px 10px;
+  text-align: center;
+}
+.docCardDes {
+  padding: 5%;
+  text-align: justify;
+}
+.card-body {
+  box-shadow: none;
+  transition: box-shadow 5s ease-in-out;
+}
+.card-body:hover {
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.11), 0 2px 2px rgba(0, 0, 0, 0.11),
+    0 4px 4px rgba(0, 0, 0, 0.11), 0 8px 8px rgba(0, 0, 0, 0.11),
+    0 16px 16px rgba(0, 0, 0, 0.11), 0 32px 32px rgba(0, 0, 0, 0.11);
+}
+.patient-input {
+  margin-left: 0px;
+}
+.doctor-input {
+  margin-left: 0px;
+}
+.doctor-register-link {
+  margin-left: 10px;
+  margin-top: 15px;
+  padding: 10px;
+  font-size: 120%;
+}
+.patient-register-link {
+  margin-left: 10px;
+
+  margin-top: 50px;
+  padding: 10px;
+  font-size: 120%;
+}
+.signup-patient-link {
+  color: #0097a7;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 23px;
+}
+.signup-doctor-link {
+  color: #0097a7;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 23px;
+}
+.password-signin {
+  width: 230px;
+  height: 36px;
+  padding-top: 0px;
+}
+.passwordsignin {
+  width: 230px;
+  height: 36px;
+}

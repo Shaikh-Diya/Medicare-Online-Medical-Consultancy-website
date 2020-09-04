@@ -1,0 +1,152 @@
+.content {
+  /* float: right; */
+  /* margin-right: 300px; */
+  /* width: 720px; */
+  height: 100%;
+  position: relative;
+  background: white;
+  /* text-align: center; */
+  flex-grow: 8;
+  flex-basis: 200px;
+  padding: 12px;
+  overflow: auto;
+}
+.award-section {
+  padding: 20px;
+}
+.location-section {
+  padding: 20px;
+}
+.location-content {
+  margin-left: 10px;
+}
+.awards-title {
+  padding: 10px;
+  text-align: left;
+}
+.awards-body {
+  padding: 10px;
+}
+.card-award {
+  width: 18rem;
+  padding: 10px;
+  margin-left: 150px;
+}
+.card-body-award {
+  height: 20px;
+}
+.location-title {
+  padding: 10px;
+}
+.country {
+  padding: 15px;
+}
+.time {
+  padding: 15px;
+  margin-left: 100px;
+}
+.state {
+  padding: 15px;
+  margin-left: 100px;
+}
+.contact-section {
+  padding: 20px;
+}
+.contact-content {
+  margin-left: 10px;
+}
+.request-appointment-body {
+  padding-top: 25px;
+  margin: auto;
+  text-align: center;
+  background: #0097a7;
+  width: 40%;
+  height: 10%;
+}
+.appointment-link {
+  color: white;
+  height: 20%;
+  font-size: 130%;
+}
+.review {
+  /* float: right; */
+  height: 100%;
+  /* margin-left: 1800px; */
+  /* width: 300px; */
+  /* text-align: center; */
+  /* margin-right: 0px; */
+  top: 10px;
+  background: beige;
+  flex-grow: 5;
+  flex-basis: 50px;
+  padding: 5px;
+  border-left: 1px solid rgba(114, 110, 110, 1);
+}
+.review-commants {
+  float: right;
+
+  text-align: center;
+  margin-right: 100px;
+  margin-top: 10px;
+}
+/* x */
+/* .review-title {
+    margin-left: 1230px;
+    top: 50px;
+    background: blue;
+  } */
+.profile-body {
+  background: rgb(218, 220, 221);
+  /* float: none; */
+  height: 100%;
+  margin-bottom: 0;
+  /* width: 100%; */
+  flex-grow: 3;
+  /* min-width: 25%; */
+  position: relative;
+  padding: 1%;
+  box-sizing: content-box;
+}
+.image-body {
+  margin-top: 0%;
+  /* margin-right: 70%; */
+  /* padding: 10% 20%; */
+  width: 100%;
+}
+.profile-title {
+  color: #0097a7;
+}
+.doctor-profile-title {
+  padding: 10px;
+  /* margin-right: 70%; */
+  text-align: center;
+  width: 100%;
+}
+
+.doctor-bio {
+  color: rgb(85, 82, 82);
+  font-family: italic;
+  text-align: center;
+  padding: 5%;
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+.pro-div {
+  display: flex;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  /* align-items: stretch; */
+}
+.appointment-section th {
+  padding: 8px;
+  background-color: lightblue;
+  font-size: large;
+  text-align: center;
+}
+.appointment-section td {
+  padding: 8px;
+  text-align: center;
+}

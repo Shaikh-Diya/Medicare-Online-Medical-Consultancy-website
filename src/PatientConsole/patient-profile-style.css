@@ -1,0 +1,90 @@
+.patient-age {
+  padding: 5px;
+  text-align: left;
+}
+.patient-age-result {
+  padding: 5px;
+}
+.patient-email {
+  padding: 5px;
+  text-align: left;
+}
+.patient-email-result {
+  padding: 5px;
+}
+.patient-country {
+  padding: 5px;
+  text-align: left;
+}
+.patient-country-result {
+  padding: 5px;
+}
+.patient-state {
+  padding: 5px;
+  text-align: left;
+}
+.patient-state-result {
+  padding: 5px;
+}
+.patient-timezone {
+  padding: 5px;
+  text-align: left;
+}
+.patient-timezone-result {
+  padding: 5px;
+}
+.prescription-section {
+  padding: 50px;
+  margin-left: 10px;
+}
+.prescription-doctor {
+  padding: 10px;
+  margin-left: 5px;
+}
+.prescription-date {
+  padding: 10px;
+  margin-left: 300px;
+}
+.country {
+  padding: 15px;
+}
+.time {
+  padding: 15px;
+  margin-left: 100px;
+}
+.state {
+  padding: 15px;
+  margin-left: 100px;
+}
+.appointment-section {
+  padding: 50px;
+  margin-left: 5px;
+}
+.dropdown-appointment {
+  padding: 10px;
+  margin-left: 90px;
+}
+.prescription-dropdown-section {
+  margin-top: 70px;
+  margin-bottom: 240px;
+}
+
+.edit-profile-title {
+  color: #0097a7;
+}
+.file-input {
+  margin-left: 10px;
+}
+.patient-profile-title {
+  color: #0097a7;
+}
+.prescription-section th {
+  padding: 8px;
+  background-color: lightblue;
+  font-size: large;
+  text-align: center;
+}
+.prescription-section td {
+  padding: 8px;
+  text-align: center;
+}

@@ -1,0 +1,71 @@
+/* .appointment-title {
+  text-align: center;
+  padding: 30px;
+} */
+/* .make-appointment {
+  position: fixed; 
+  height: 100%; 
+} */
+.appointment-booking-content {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background: white;
+}
+.schedule-title {
+  color: #0097a7;
+}
+.schedule-content {
+  padding: 50px;
+  width: 900px;
+  /* background: white; */
+}
+.schedule-table {
+  padding-top: 200px;
+  width: 100%;
+  text-align: center;
+}
+table,
+th,
+td {
+  border: 1px solid rgb(149, 149, 149);
+}
+.appointment-form {
+  padding-top: 50px;
+  width: 550px;
+  margin-left: 0px;
+  height: 100%;
+  /* background: white; */
+}
+.appoinment-form-title {
+  color: #0097a7;
+}
+.doctor-name-input {
+  padding-top: 20px;
+  padding-right: 20px;
+}
+.appointment-date-input {
+  padding-top: 20px;
+  width: 200px;
+}
+.patient-name-input {
+  padding-top: 20px;
+  padding-right: 20px;
+}
+.appointment-email-input {
+  padding-top: 20px;
+  padding-right: 20px;
+}
+#apnt_sub {
+  margin-top: 20px;
+}
+.input-day {
+  padding: 5px;
+  margin-left: 5px;
+  width: 210px;
+}
+.input-time {
+  padding: 5px;
+  margin-left: 50px;
+  width: 270px;
+}
